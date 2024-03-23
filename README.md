@@ -12,7 +12,7 @@
 ## 👨🏻‍🎓 Experiência Acadêmica:
   - **Pós graduação**: Engenharia e Arquitetura de Dados.
   - **Pós Graduação**: Inteligência Artificial.
-  - **Graduação**    : Análise e Desenvolvimento de Sistema.
+  - **Graduação**    : Análise e Desenvolvimento de Sistemas.
 
 
 ## 💼 Tecnologias:
