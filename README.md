@@ -1,7 +1,8 @@
-- Hi there! I'm Eric Mencarini, how it's going? ! 👋👋
+## Hi there! I'm Eric Mencarini, how it's going? ! 👋👋
 - I like to do some projects in Data Engineering and A.I.
+- Currently working as Data Analyst | B.I Analyst | Data Engineering
 
--Fell free to get in touch:
+-> Fell free to get in touch:
 <center>
 <a href="https://www.linkedin.com/in/ericmencarini/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
@@ -9,9 +10,9 @@
 
 
 ## 👨🏻‍🎓 Education:
-  - **MBA**: Engenharia e Arquitetura de Dados.
-  - **MBA**: Inteligência Artificial.
-  - **Gradueted**: Systems Analysis and Development..
+  - **MBA**: Data Engineering and Architecture.
+  - **MBA**: Artificial Intelligence.
+  - **Gradueted**: Systems Analysis and Development.
 
 
 ## 💼 Main Technologies:
