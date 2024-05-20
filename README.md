@@ -1,21 +1,20 @@
-- Opa, me chamo Eric Mencarini! 👋👋
-- Tenho interesse nas área de engenharia de dados, inteligência artificial.
-- No momento estou desenvolvendo alguns projetos dessas áreas em Python.
+- Hi there! I'm Eric Mencarini, how it's going? ! 👋👋
+- I like to do some projects in Data Engineering and A.I.
 
--Você também pode me encontrar em:
+-Fell free to get in touch:
 <center>
 <a href="https://www.linkedin.com/in/ericmencarini/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 
 
-## 👨🏻‍🎓 Experiência Acadêmica:
-  - **Pós graduação**: Engenharia e Arquitetura de Dados.
-  - **Pós Graduação**: Inteligência Artificial.
-  - **Graduação**    : Análise e Desenvolvimento de Sistemas.
+## 👨🏻‍🎓 Education:
+  - **MBA**: Engenharia e Arquitetura de Dados.
+  - **MBA**: Inteligência Artificial.
+  - **Gradueted**: Systems Analysis and Development..
 
 
-## 💼 Tecnologias:
+## 💼 Main Technologies:
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
