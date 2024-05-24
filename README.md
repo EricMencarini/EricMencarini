@@ -12,7 +12,7 @@
 ## 👨🏻‍🎓 Education:
   - **MBA**: Data Engineering and Architecture.
   - **MBA**: Artificial Intelligence.
-  - **Gradueted**: Systems Analysis and Development.
+  - **Graduated**: Systems Analysis and Development.
 
 
 ## 💼 Main Technologies:
