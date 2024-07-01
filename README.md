@@ -1,5 +1,5 @@
 ## Hi there! I'm Eric Mencarini, how it's going? ! 👋👋
-- I like to do some projects in Data Engineering and A.I.
+- I'm a Data Analyst but I also like to do some projects in Data Engineering and A.I.
 - Currently working as Data Analyst | B.I Analyst | Data Engineering
 
 -> Fell free to get in touch:
