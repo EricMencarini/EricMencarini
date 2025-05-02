@@ -6,9 +6,14 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 
-## 💼 Main Techs:
+## 💼 Currently Working with:
 
--SQL / Python / Azure / DataBricks / ML  
+-Streaming pipelines
+-DataBricks
+-Python
+-SQL Server
+-Azure
+-ML and Mlops
 
 
 ## 👨🏻‍🎓 Education:
