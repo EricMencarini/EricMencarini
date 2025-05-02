@@ -1,5 +1,4 @@
 ## Hi there! I'm Eric Mencarini, how it's going? ! 👋👋
-- Currently working as Data Engineering
 
 -> Fell free to get in touch:
 <center>
@@ -7,23 +6,16 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 
+## 💼 Main Techs:
+
+-SQL / Python / Azure / DataBricks / ML  
+
 
 ## 👨🏻‍🎓 Education:
   - **MBA**: Data Engineering and Architecture.
   - **MBA**: Artificial Intelligence.
   - **Graduated**: Computer Science.
 
-
-## 💼 Main Technologies:
-
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Airflow-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
-![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 
 
 <!---
