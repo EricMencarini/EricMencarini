@@ -8,12 +8,12 @@
 
 ## 💼 Currently Working with:
 
--Streaming pipelines
--DataBricks
--Python
--SQL Server
--Azure
--ML and Mlops
+- Streaming pipelines
+- DataBricks
+- Python
+- SQL Server
+- Azure
+- ML and Mlops
 
 
 ## 👨🏻‍🎓 Education:
